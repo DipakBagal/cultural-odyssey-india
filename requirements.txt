@@ -3,6 +3,6 @@ pandas
 snowflake-connector-python
 altair
 prophet
-pyarrow==18.0.1
+pyarrow
 folium
 streamlit-folium
