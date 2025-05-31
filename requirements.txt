@@ -1,0 +1,8 @@
+streamlit
+pandas
+snowflake-connector-python
+altair
+prophet
+pyarrow==18.0.1
+folium
+streamlit-folium
